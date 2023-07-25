@@ -24,7 +24,7 @@
         <version.debezium>1.7.1.Final</version.debezium>
         <version.debezium.tag>1.7</version.debezium.tag>
         <version.kinesis.client>1.13.3</version.kinesis.client>
-        <version.jackson>2.10.0</version.jackson>
+        <version.jackson>2.11.4</version.jackson>
         <version.plugin.docker>0.24.0</version.plugin.docker>
     </properties>
 
